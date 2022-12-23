@@ -1,6 +1,13 @@
-### Hola bienvenido a mi perfil 👋, me gusta desarrollar software
-<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>">
-  ?style=plastic&logo=appveyor
+### Hola bienvenidos a mi perfil 👋, me gusta desarrollar software y soy apasionado por la tecnologia
+<h1>Sobre mi</h1>
+Actualmente estoy estudiando ingenieria de sistemas en 7 semestre, he realizado proyectos  en laravel php y mysql
+<h1>Skills</h1>
+<img src="https://img.shields.io/badge/software-php-blue">
+<img src="https://img.shields.io/badge/BD-MYSQL-GREEN">
+<img src="https://img.shields.io/badge/css-php-blue">
+<img src="https://img.shields.io/badge/Laravel-php-blue">
+<h1>Contact</h1>
+<a href="www.linkedin.com/in/jose-daniel-solano-manosalva">Linkedin</a>
 <!--
 **softwaredaniel/softwaredaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

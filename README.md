@@ -5,8 +5,10 @@ Actualmente estoy estudiando ingenieria de sistemas en 7 semestre, he realizado 
 <img src="https://img.shields.io/badge/software-php-blue">
 <img src="https://img.shields.io/badge/BD-MYSQL-GREEN">
 <img src="https://img.shields.io/badge/css-php-blue">
+<h2>Backend</h2>
 <img src="https://img.shields.io/badge/Laravel-php-blue">
 <img src="https://img.shields.io/badge/JAVA-whrite">
+<img src="https://img.shields.io/badge/C#-purple">
 <h1>Contact</h1>
 <a href="www.linkedin.com/in/jose-daniel-solano-manosalva">Linkedin</a>
 <!--
